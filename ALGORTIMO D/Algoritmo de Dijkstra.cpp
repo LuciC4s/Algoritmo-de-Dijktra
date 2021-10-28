@@ -70,6 +70,7 @@ struct Programa
 	int comienzo, fin;
 	void definirGrafo(Graph& graph)
 	{
+		cout<<"---------------------------------"<<endl;
 		cout<<"--ENCONTRAR EL CAMINO MAS CORTO--" << endl;
 		cout<<"---------------------------------"<<endl;
 		cout << "Ingrese Cantidad de Vertices: ";
